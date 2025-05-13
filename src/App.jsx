@@ -32,8 +32,8 @@ function App() {
 <br />
 <br />
 <br />
-        <div id='simbolos'>
-          <span>&#8943;</span>
+        <div class='simbolos'>
+          <span id='span1'>&#8943;</span>
           <span>&#8943;</span>
           <span>&#8943;</span>
           <span>&#8943;</span>
